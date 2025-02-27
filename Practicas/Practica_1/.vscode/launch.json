@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/brandonmacal/Documents/Escuela/2025-2/Compiladores/Compiladores-2025-2/Practicas/Practica_1",
+      "program": "/Users/brandonmacal/Documents/Escuela/2025-2/Compiladores/Compiladores-2025-2/Practicas/Practica_1/build/Debug/outDebug"
+    }
+  ]
+}
